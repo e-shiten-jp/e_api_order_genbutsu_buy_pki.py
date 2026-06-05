@@ -1,4 +1,4 @@
-# e_api_neworder_buy_genbutsu_tel.py
+# e_api_neworder_buy_genbutsu.py
 pki認証　現物買い注文
 
 ご注意！！ ================================
